@@ -1,0 +1,1 @@
+ALTER TABLE ${schema2}.product_catalog ADD COLUMN TAX_RATE FLOAT;
