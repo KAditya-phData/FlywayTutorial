@@ -1,0 +1,1 @@
+ALTER TABLE ${schema1}.order_details ADD COLUMN TAX FLOAT;
